@@ -28,7 +28,7 @@ cd <nama-repo>
 flutter pub get
 ```
 
-### Jalankan Aplikasi
+### 3. Jalankan Aplikasi
 
 - Menjalankan di Web
 ```bash
